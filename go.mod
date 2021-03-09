@@ -1,4 +1,4 @@
-module github.com/stoewer/go-nakadi
+module github.com/CanLikeTo/go-nakadi
 
 go 1.11
 
